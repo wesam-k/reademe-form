@@ -31,7 +31,16 @@
 <br />
 
 
+### Projects:
+
+[My-projects-HYF]
+[React_Weather_app]
+finial graduated project with classmates [places sharing] [https://placessharer.web.app/]
+
 [website]: https://github.com/wesam-k
 [instagram]: https://www.instagram.com/wesam_k_abo_gandhi/
 [linkedin]: https://www.linkedin.com/in/wesam-alkfere-11b89374/
 [facebook]: https://www.facebook.com/wesam.gandhi
+
+[My-projects-HYF]: https://github.com/wesam-k/My-projects-HYF
+[React_Weather_app]: https://github.com/wesam-k/React_Weather_app
