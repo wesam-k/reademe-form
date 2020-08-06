@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a VS Code 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to become as professional Developer
-- 🥅 2020 Goals: Finish HYF and get an internship  
+- 🥅 2020 Goals: Finish study in HYF and get an internship  
 - ⚡ Fun fact: I love to hike and travel
 
 ### Connect with me:
