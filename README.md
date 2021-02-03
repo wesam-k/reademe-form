@@ -1,19 +1,19 @@
 ### Hi there, I'm Wesam Alkfere [wesam-k][website] 👋
 
 ## I'm a front-end Developer!
-- 🔭  I’m currently working on a VS Code 
-- 🌱  I’m currently learning everything 🤣
-- 👯  I’m looking to become as professional Developer
-- 🥅  2020 Goals: Finish study in HYF and get an internship  
-- ⚡  Fun fact: hiking and traveling
-- quote: Never lose your enthusiasm to learn something new every day
-
+- 🔭   Currently working on a VS Code 
+- 🌱   Currently learning everything 🤣
+- 👯   looking to become as professional Developer
+- 🥅   2021 Goals: learn new tools and techniques as much as I can /Finish internship and get a job
+- ⚡    Fun fact: hiking and traveling
+> Quote: Never lose your enthusiasm to learn something new every day
+---
 ### Connect with me:
 
 [<img align="left" alt="wesam-k | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/53225954/106743630-f4f9dd80-661e-11eb-8061-899a880e5de4.png" />][linkedin]
 [<img align="left" alt="wesam-k | Facebook" width="22px" src="https://user-images.githubusercontent.com/53225954/106743648-f75c3780-661e-11eb-9aa0-988fc0987f25.png" />][facebook]
 [<img align="left" alt="wesam-k | Instagram" width="22px" src="https://user-images.githubusercontent.com/53225954/106743640-f62b0a80-661e-11eb-8e5f-8b5710bfed26.png" />][instagram]
-
+---
 
 <br />
 
@@ -32,7 +32,7 @@
 <img align="left" alt="Storybook" hover="Storybook" width="26px" src="https://user-images.githubusercontent.com/53225954/106743191-57061300-661e-11eb-8651-57c1b4560a7e.png" />
 <img align="left" alt="Contentful" hover="Contentful" width="26px" src="https://user-images.githubusercontent.com/53225954/106741683-4fde0580-661c-11eb-9254-42574ed18def.jpg" />
 <img align="left" alt="Gatsby" hover="Gatsby" width="26px" src="https://user-images.githubusercontent.com/53225954/106741689-52405f80-661c-11eb-8304-6408a057944a.png" />
-
+---
 <br />
 <br />
 
