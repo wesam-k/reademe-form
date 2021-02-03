@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="wesam-k | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="wesam-k | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="wesam-k | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="wesam-k | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/53225954/106743630-f4f9dd80-661e-11eb-8061-899a880e5de4.png" />][linkedin]
+[<img align="left" alt="wesam-k | Facebook" width="22px" src="https://user-images.githubusercontent.com/53225954/106743648-f75c3780-661e-11eb-9aa0-988fc0987f25.png" />][facebook]
+[<img align="left" alt="wesam-k | Instagram" width="22px" src="https://user-images.githubusercontent.com/53225954/106743640-f62b0a80-661e-11eb-8e5f-8b5710bfed26.png" />][instagram]
 
 
 <br />
