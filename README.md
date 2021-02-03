@@ -29,6 +29,7 @@
 <img align="left" alt="GitHub" hover="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="TS" hover="TS" width="26px" src="https://user-images.githubusercontent.com/53225954/106741696-53718c80-661c-11eb-98e4-c77ddd684540.png" />
 <img align="left" alt="Styled-components" hover="Styled-components" width="26px" src="https://user-images.githubusercontent.com/53225954/106741691-52405f80-661c-11eb-90f6-85333ec484cc.png" />
+<img align="left" alt="Storybook" hover="Storybook" width="26px" src="https://user-images.githubusercontent.com/53225954/106743191-57061300-661e-11eb-8651-57c1b4560a7e.png" />
 <img align="left" alt="Contentful" hover="Contentful" width="26px" src="https://user-images.githubusercontent.com/53225954/106741683-4fde0580-661c-11eb-9254-42574ed18def.jpg" />
 <img align="left" alt="Gatsby" hover="Gatsby" width="26px" src="https://user-images.githubusercontent.com/53225954/106741689-52405f80-661c-11eb-8304-6408a057944a.png" />
 
