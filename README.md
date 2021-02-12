@@ -32,6 +32,8 @@
 <img align="left" alt="Storybook" hover="Storybook" width="26px" src="https://user-images.githubusercontent.com/53225954/106743191-57061300-661e-11eb-8651-57c1b4560a7e.png" />
 <img align="left" alt="Contentful" hover="Contentful" width="26px" src="https://user-images.githubusercontent.com/53225954/106741683-4fde0580-661c-11eb-9254-42574ed18def.jpg" />
 <img align="left" alt="Gatsby" hover="Gatsby" width="26px" src="https://user-images.githubusercontent.com/53225954/106741689-52405f80-661c-11eb-8304-6408a057944a.png" />
+<img align="left" alt="Gatsby" hover="Gatsby" width="26px" src="https://user-images.githubusercontent.com/53225954/107755891-b1405b80-6d23-11eb-815d-8d046b993281.png" />
+
 
 <br />
 <br />
