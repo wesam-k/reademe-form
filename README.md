@@ -54,7 +54,7 @@
 
  [My-projects-HYF]: https://github.com/wesam-k/My-projects-HYF
  [React_Weather_app]: https://github.com/wesam-k/React_Weather_app
- [places sharing]: https://placessharer.web.app/
+ [places sharing]: https://placesbook.herokuapp.com/
  [React-Todo-app]: https://github.com/wesam-k/React-Todo-app
  [REACT,TS]:https://github.com/wesam-k/Sudoku-ts
  [Gatsby]:https://github.com/wesam-k/Gatsby-simple-website
